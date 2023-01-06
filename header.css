@@ -1,0 +1,8 @@
+header#header-2023 .container-top-header .o-login-cart .o-iconos-container .minicart-header-container .minicart-header{
+    background: white;
+    padding: 1rem;
+    width: 300px;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+}
